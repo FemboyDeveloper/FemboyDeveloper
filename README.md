@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @FemboyJavi
-- 👀 I’m interested in developing graphics and promotional media for Forged Alliance Forever!
-- 🌱 I’m currently learning (CSS, Javascript)
+- 👋 Hi, I’m Javi
+- 🌱 I’m currently learning HTML (PUG) CSS (SASS) and JS (vanilla).
 
 
 <!---
