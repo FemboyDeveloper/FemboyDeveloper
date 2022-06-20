@@ -2,7 +2,7 @@
 ## I'm a Student & Volunteer at [Forged Alliance Forever](https://github.com/FAForever)
 - I'm currently learning HTML(PUG), CSS (SASS), and JS.
 - I'm working on the re-design of the [new FAF Website](https://www.test.faforever.com/) ([Code here](https://github.com/FAForever/website/tree/New-Frontend))
-- I'm looking to start and contribute with the websites/projects of non-profits and other helpful communities.
+- I'm looking to contribute and start websites/projects of non-profits and other helpful communities.
 
 ## About Me
 - Quick learner and not afraid to learn new foreign concepts. 
