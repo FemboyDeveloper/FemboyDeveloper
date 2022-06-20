@@ -10,11 +10,11 @@
 - Quick learner and not afraid to learn new foreign concepts. 
 
 
-<img align="left" alt="Javi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FemboyJavi&theme=jolly&show_icons=true&hide_border=true%22%3E">
+<img align="left" alt="Javi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaviTrek&theme=jolly&show_icons=true&hide_border=true%22%3E">
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FemboyJavi&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviTrek&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 
     
