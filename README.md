@@ -10,7 +10,7 @@
 - Thoughtful teamworker, I try always getting a wide fan of opinions and ideas from my fellow contributors and members of the community before implementing new ideas.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviTrek&theme=jolly&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javitrek&theme=jolly&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
