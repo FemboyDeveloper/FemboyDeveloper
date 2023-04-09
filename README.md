@@ -1,4 +1,4 @@
-# Hello, I'm Javi Trek! (he/she) 🏳️‍🌈
+# Hello, welcome to my Github page! 🏳️‍🌈
 ## I'm a Computer Science Student & Web developer at [Forged Alliance Forever](https://github.com/FAForever)
 - I'm currently learning the MERN stack.
 - I'm the creator and maintainer of the [FAF Website](https://www.faforever.com/) ([Code here](https://github.com/FAForever/website))
