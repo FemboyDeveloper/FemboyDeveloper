@@ -7,12 +7,14 @@ oversees the development of FAF, a strategy video-game with over a 1000 users pl
 - I'm looking to contribute for non-profits and other communities with noble causes.
 
 ## About Me
+- Enjoy teaching and uplifting others struggling in the field ❤️
 - Quick learner and not afraid to dive into new foreign concepts ⚡
 - Enjoy doing some light video editing and graphic design on the side 🎨
 - Started doing programming as a hobby in COVID and then decided to made it my career 💻
-- Enjoy teaching and uplifting others struggling in the field ❤️
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=FemmDev&theme=dark)](https://git.io/streak-stats)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FemmDev&hide=jupyter%20notebook&layout=compact&theme=dark)
 
 
 
