@@ -12,7 +12,7 @@ oversees the development of FAF, a strategy video-game with over a 1000 users pl
 - Started doing programming as a hobby in COVID and then decided to made it my career 💻
 - Enjoy teaching and uplifting others struggling in the field ❤️
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=FemboyDeveloper&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=FemmDev&theme=dark)](https://git.io/streak-stats)
 
 
 
