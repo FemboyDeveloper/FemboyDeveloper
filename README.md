@@ -12,8 +12,6 @@ oversees the development of FAF, a strategy video-game with over a 1000 users pl
 - Enjoy doing some light video editing and graphic design on the side 🎨
 - Started doing programming as a hobby in COVID and then decided to made it my career 💻
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=FemmDev&theme=dark)](https://git.io/streak-stats)
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FemmDev&hide=jupyter%20notebook&layout=compact&theme=dark)
 
 
