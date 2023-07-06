@@ -12,7 +12,7 @@ oversees the development of FAF, a strategy video-game with over a 1000 users pl
 - Enjoy doing some light video editing and graphic design on the side 🎨
 - Started doing programming as a hobby in COVID and then decided to made it my career 💻
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FemmDev&hide=jupyter%20notebook&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviTrek&hide=jupyter%20notebook&layout=compact&theme=dark)
 
 
 
