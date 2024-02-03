@@ -1,4 +1,4 @@
-# Hello, welcome to my Github page! 🏳️‍🌈
+# Hello, welcome to my GitHub page! 🏳️‍🌈
 ## I'm a self-taught software developer and a software engineering student!
 - Developed and continue to maintain the [website](https://faforever.com/) of open-source Danish organization [FAForever](https://github.com/FAForever), which
 oversees the development of FAF, a strategy video-game with over a 1000 users playing daily.
