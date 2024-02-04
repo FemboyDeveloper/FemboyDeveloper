@@ -2,8 +2,7 @@
 Nice to meet you! I'm Javi (she, he or them pronouns), I'm a non-binary student at Miami Dade College (MDC, specifically the North Campus!). 
 I got a background/degree in Psychology but I've switched careers to programming! I'm mainly doing web development but I've ventured into DevOps and IT here and there.
 
-# My work as a developer
-## I'm a self-taught software developer and a software engineering student!
+# My work and experience as a self-taught developer
 - Developed the [website](https://faforever.com/) of open-source Danish organization [FAForever](https://github.com/FAForever), which
 oversees the development of FAF, a strategy video-game with over a 1000 users playing daily.
 - Created and [hosted (website)](https://www.wars-world.com/) a full stack MERN application under 9 weeks [(repository)](https://github.com/FemboyDeveloper/AW-Competitive), creating a multiplayer chess like stratey game with seamless real-time gameplay.
