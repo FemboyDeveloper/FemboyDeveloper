@@ -2,6 +2,13 @@
 Nice to meet you! I'm Javi (she, he or them pronouns), I'm a non-binary student at Miami Dade College (MDC, specifically the North Campus!). 
 I got a background/degree in Psychology but I've switched careers to programming! I'm mainly doing web development but I've ventured into DevOps and IT here and there.
 
+# My work as a developer
+## I'm a self-taught software developer and a software engineering student!
+- Developed the [website](https://faforever.com/) of open-source Danish organization [FAForever](https://github.com/FAForever), which
+oversees the development of FAF, a strategy video-game with over a 1000 users playing daily.
+- Created and [hosted (website)](https://www.wars-world.com/) a full stack MERN application under 9 weeks [(repository)](https://github.com/FemboyDeveloper/AW-Competitive), creating a multiplayer chess like stratey game with seamless real-time gameplay.
+- Currently working on making Wars-World more than just a demo, right now it's an open-source project open to anyone!
+- I have won 2 hackathons! First [ShellHacks](https://devpost.com/software/sundered-starlight) with over 1200 participants and [KnightHacks](https://devpost.com/software/lawlinker) with over 700!
 
 # About me
 ## How did I get into programming
@@ -26,13 +33,7 @@ If you want to reach out to me, the best way is through Discord! My username is 
 - Enjoy doing some light video editing and graphic design on the side 🎨
 - I love boardgames and strategy videogames 🎮
 
-# My work as a developer
-## I'm a self-taught software developer and a software engineering student!
-- Developed the [website](https://faforever.com/) of open-source Danish organization [FAForever](https://github.com/FAForever), which
-oversees the development of FAF, a strategy video-game with over a 1000 users playing daily.
-- Created and [hosted (website)](https://www.wars-world.com/) a full stack MERN application under 9 weeks [(repository)](https://github.com/FemboyDeveloper/AW-Competitive), creating a multiplayer chess like stratey game with seamless real-time gameplay.
-- Currently working on making Wars-World more than just a demo, right now it's an open-source project open to anyone!
-- I have won 2 hackathons! First [ShellHacks](https://devpost.com/software/sundered-starlight) with over 1200 participants and [KnightHacks](https://devpost.com/software/lawlinker) with over 700!
+
 
 
 
