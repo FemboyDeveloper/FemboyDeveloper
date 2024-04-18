@@ -34,12 +34,6 @@ If you want to reach out to me, the best way is through Discord! My username is 
 
 
 
-
-
-![QUEERINTECH](https://github.com/JaviTrek/JaviTrek/assets/96269542/51f3e845-d5b5-4445-b767-87f72ada10f0)
-
-
-
     
 
     
