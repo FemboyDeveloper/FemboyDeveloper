@@ -24,8 +24,6 @@ I'm also trying really hard as a queer individual to make space for other queer 
 I'm super duper happy to guide you on how to jumpstart your career, learning to work with open source projects and overall have fun while programming!
 You can also come to my workshops which are free for everyone! I'm trying to also put them on zoom and youtube, stay tuned!
 
-If you want to reach out to me, the best way is through Discord! My username is femboy.io or [LinkedIn](https://www.linkedin.com/in/javier-bracho/)
-
 ### Random facts
 - Enjoy teaching and uplifting others struggling in the field ❤️
 - Quick learner and not afraid to dive into new foreign concepts ⚡
